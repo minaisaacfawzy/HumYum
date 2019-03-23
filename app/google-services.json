@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068943506500",
+    "firebase_url": "https://humyum-e0475.firebaseio.com",
+    "project_id": "humyum-e0475",
+    "storage_bucket": "humyum-e0475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068943506500:android:7d22de6c13decdc9",
+        "android_client_info": {
+          "package_name": "android.example.com.humyum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068943506500-p39964emecc7j1h9b8ng0bk19fqsu472.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.humyum",
+            "certificate_hash": "bf5607f765bd491a67e3137952d51804d79c1a31"
+          }
+        },
+        {
+          "client_id": "1068943506500-vus2udi9uuafp33i5ca8vd3hhu9ip7sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSQ4m7FEV4hyvKfANO5FVp10jHF83oWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068943506500-vus2udi9uuafp33i5ca8vd3hhu9ip7sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
